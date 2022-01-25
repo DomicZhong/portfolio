@@ -11,11 +11,13 @@ const Project = () => {
                         <Card.Body>
                             <Card.Title>Urban Tour</Card.Title>
                             <Card.Text>
-                                It's a project about the Toursim Prediction. Here is <a src="https://www.youtube.com/watch?v=zkH6Xu2_8MA">link </a>!
+                                It's a project about the Toursim Prediction. Here is link !
                                 <br/>
                                 <iframe width="320" height="150" src="https://www.youtube.com/embed/zkH6Xu2_8MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <Button variant="primary">
+                                <a src="https://www.youtube.com/watch?v=zkH6Xu2_8MA">Go to Video</a>
+                            </Button>
                         </Card.Body>
                     </Card>
                 </Col>
@@ -28,7 +30,9 @@ const Project = () => {
                                 <br/>
                                 <iframe width="320" height="150" src="https://www.youtube.com/embed/XxyWzBUp-NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <Button variant="primary">
+                            <a src="https://www.youtube.com/embed/XxyWzBUp-NU">Go to Video</a>
+                            </Button>
                         </Card.Body>
                     </Card>
                 </Col>
