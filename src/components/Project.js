@@ -11,12 +11,12 @@ const Project = () => {
                         <Card.Body>
                             <Card.Title>Urban Tour</Card.Title>
                             <Card.Text>
-                                It's a project about the Toursim Prediction. Here is link !
+                                It's a project about the Toursim Prediction. 
                                 <br/>
-                                <iframe width="320" height="150" src="https://www.youtube.com/embed/zkH6Xu2_8MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="90%" height="250" src="https://www.youtube.com/embed/zkH6Xu2_8MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </Card.Text>
-                            <Button variant="primary">
-                                <a src="https://www.youtube.com/watch?v=zkH6Xu2_8MA">Go to Video</a>
+                            <Button variant="primary" href="https://www.youtube.com/watch?v=zkH6Xu2_8MA">
+                                Go to Video
                             </Button>
                         </Card.Body>
                     </Card>
@@ -26,12 +26,12 @@ const Project = () => {
                         <Card.Body>
                             <Card.Title>Tourism Network</Card.Title>
                             <Card.Text>
-                                Tourism Network
+                                It's a project about the Tourism Network. 
                                 <br/>
-                                <iframe width="320" height="150" src="https://www.youtube.com/embed/XxyWzBUp-NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="90%" height="250" src="https://www.youtube.com/embed/XxyWzBUp-NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </Card.Text>
-                            <Button variant="primary">
-                            <a src="https://www.youtube.com/embed/XxyWzBUp-NU">Go to Video</a>
+                            <Button variant="primary" href="https://www.youtube.com/embed/XxyWzBUp-NU">
+                             Go to Video
                             </Button>
                         </Card.Body>
                     </Card>
