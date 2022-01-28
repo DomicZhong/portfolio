@@ -8,10 +8,10 @@ const ContactMe = () => {
             <h1 style={{width: "100%", textAlign: "center", marginBottom: "50px", marginTop: "20px", color: "#dee2e6"}}>Contact Me</h1>
             <Row style={{justifyContent: "center", alignItems: "center", height: "100%"}}>
                 <Col sm={6} md={3} lg={3} style={{display: 'flex', justifyContent: 'center'}}>
-                    <SocialIcon url='https://github.com/DomicZhong' />
+                    <SocialIcon url='https://github.com/DomicZhong' fgColor="#ffffff" bgColor="#222222"/>
                 </Col>
                 <Col sm={6} md={3} lg={3} style={{display: 'flex', justifyContent: 'center'}}>
-                    <SocialIcon url='https://www.linkedin.com/in/allen-zhong-56b2171bb//' />
+                    <SocialIcon url='https://www.linkedin.com/in/allen-zhong-56b2171bb/' />
                 </Col>
             </Row>
         </Container>

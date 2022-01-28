@@ -13,7 +13,7 @@ const Project = () => {
                             <Card.Text>
                                 It's a project about the Toursim Prediction. 
                                 <br/>
-                                <iframe width="90%" height="250" src="https://www.youtube.com/embed/zkH6Xu2_8MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%" height="250" src="https://www.youtube.com/embed/zkH6Xu2_8MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </Card.Text>
                             <Button variant="primary" href="https://www.youtube.com/watch?v=zkH6Xu2_8MA">
                                 Go to Video
@@ -28,9 +28,9 @@ const Project = () => {
                             <Card.Text>
                                 It's a project about the Tourism Network. 
                                 <br/>
-                                <iframe width="90%" height="250" src="https://www.youtube.com/embed/XxyWzBUp-NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%" height="250" src="https://www.youtube.com/embed/XxyWzBUp-NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </Card.Text>
-                            <Button variant="primary" href="https://www.youtube.com/embed/XxyWzBUp-NU">
+                            <Button variant="primary" href="https://www.youtube.com/embed/XxyWzBUp-NU" target="_blank">
                              Go to Video
                             </Button>
                         </Card.Body>

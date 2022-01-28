@@ -8,7 +8,6 @@ Npm -v
 
 
 - remeber to run “npm install gh-pages --save-dev”
-- remeber to run “npm install gh-pages --save-dev”
 - after each modify run “npm run deploy” to deploy on github page
 
 gh-pages is the distributable version

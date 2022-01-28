@@ -25,13 +25,25 @@ const Skills = () => {
                 <Col sm={12} md={6} lg={6} style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
                     <div className='skill'>
                         <img src={tick} alt="Proficient in " className='tick'/>
-                        <h4 style={{display: 'inline-block', fontWeight: '300', margin: '0 10px'}}>Big Data</h4>
+                        <h4 style={{display: 'inline-block', fontWeight: '300', margin: '0 10px'}}>Urabn Big Data</h4>
                     </div>
                 </Col>
                 <Col sm={12} md={6} lg={6} style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
                     <div className='skill'>
                         <img src={tick} alt="Proficient in " className='tick'/>
                         <h4 style={{display: 'inline-block', fontWeight: '300', margin: '0 10px'}}>Deep Learning</h4>
+                    </div>
+                </Col>
+                <Col sm={12} md={6} lg={6} style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+                    <div className='skill'>
+                        <img src={tick} alt="Proficient in " className='tick'/>
+                        <h4 style={{display: 'inline-block', fontWeight: '300', margin: '0 10px'}}>Spatial Analysis</h4>
+                    </div>
+                </Col>
+                <Col sm={12} md={6} lg={6} style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+                    <div className='skill'>
+                        <img src={tick} alt="Proficient in " className='tick'/>
+                        <h4 style={{display: 'inline-block', fontWeight: '300', margin: '0 10px'}}>Visualization</h4>
                     </div>
                 </Col>
             </Row>
