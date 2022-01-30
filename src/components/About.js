@@ -1,6 +1,6 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-import dev from '../images/dev.png';
+import dev from '../images/Developer.jpg';
 
 const About = () => {
     return(
